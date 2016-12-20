@@ -1,0 +1,1 @@
+# This is a script to prepossess the tweets and save all the necessary formatted data to a file
